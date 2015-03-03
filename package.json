@@ -1,0 +1,22 @@
+{
+  "name": "magicApi",
+  "version": "0.0.1",
+  "description": "koa magic api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony `which gulp` test"
+  },
+  "author": "Charles Jacquin <charles.jacquin@autistici.org> (https://github.com/Charl---)",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "*",
+    "koa-mount": "*",
+    "koa-router": "*",
+    "koa-static": "*",
+    "lodash": "*",
+    "q-io": "^1.11.6"
+  },
+  "devDependencies": {
+
+  }
+}
